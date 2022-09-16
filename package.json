@@ -22,16 +22,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/Nurutomo/wabot-aq",
+  "homepage": "https://github.com/Mr4XDrizasri/dri_bot",
   "author": {
-    "name": "Nurutomo"
+    "name": "Mr4XDrizasri
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nurutomo/wabot-aq.git"
+    "url": "git+https://github.com/Mr4XDrizasri/dri_bot"
   },
   "bugs": {
-    "url": "https://github.com/Nurutomo/wabot-aq/issues"
+    "url": "https://github.com/Mr4XDrizasri/dri_bot/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
